@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pangamut
 - 👀 I’m interested in brewing, coding, enhancing security for myself and friends
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on Signal development.
 - 📫 How to reach me: you will find out
 
 <!---
